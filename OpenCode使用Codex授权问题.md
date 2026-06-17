@@ -1,9 +1,9 @@
 在安装OpenCode后，选择openai ChatGPT Plus/Pro(browser) 授权后 网页正确弹出如下页面  
 
-![](.\image\authorization successful.png)
+![authorization successful](image/authorization successful.png)
 
 但opencode客户端中提示报错
-![](.\image\41278efdf6ded6ce868061550eadab9d.png)
+![opencode](image/41278efdf6ded6ce868061550eadab9d.png)
 
 
 
